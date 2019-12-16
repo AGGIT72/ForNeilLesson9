@@ -1,0 +1,3 @@
+C:\Users\UDEMY_ASPNETANGULAR\DatingApp\DatingApp.API\DatingApp.API.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore (>= 3.0.0)' for '.NETCoreApp,Version=v3.0'.
+C:\Users\UDEMY_ASPNETANGULAR\DatingApp\DatingApp.API\DatingApp.API.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Sqlite (>= 3.0.0)' for '.NETCoreApp,Version=v3.0'.
+C:\Users\UDEMY_ASPNETANGULAR\DatingApp\DatingApp.API\DatingApp.API.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Design (>= 3.0.0)' for '.NETCoreApp,Version=v3.0'.
